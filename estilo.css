@@ -31,7 +31,7 @@ body{
 }
 
 .caixa-branca{
-    background-image: url("imagens/amor-pixabay.jpg");
+    background-image: url("Imagens/amor-pixabay.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -85,27 +85,27 @@ body{
 }
 
 .icone-instagram{
-    background-image: url("imagens/instagram1.svg");
+    background-image: url("Imagens/instagram1.svg");
 }
 
 .icone-instagram:hover{
-    background-image: url("imagens/instagram2.svg");
+    background-image: url("Imagens/instagram2.svg");
 }
 
 .icone-facebook{
-    background-image: url("imagens/facebook1.svg");
+    background-image: url("Imagens/facebook1.svg");
 }
 
 .icone-facebook:hover{
-    background-image: url("imagens/facebook2.svg");
+    background-image: url("Imagens/facebook2.svg");
 }
 
 .icone-linkedin{
-    background-image: url("imagens/linkedin1.svg");
+    background-image: url("Imagens/linkedin1.svg");
 }
 
 .icone-linkedin:hover{
-    background-image: url("imagens/linkedin2.svg");
+    background-image: url("Imagens/linkedin2.svg");
 }
 
 footer{
