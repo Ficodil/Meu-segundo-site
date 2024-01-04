@@ -1,0 +1,115 @@
+*{
+    margin: 0px;
+}
+
+body{
+    background-color: rgb(192, 190, 190);
+}
+
+.titulo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: rgb(158, 118, 37);
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.menu{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    padding: 80px;
+    text-decoration: none;
+}
+
+.menu:hover, .menu.active{
+    color: rgb(75, 53, 10) !important;
+}
+
+.caixa-branca{
+    background-image: url("imagens/amor-pixabay.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.t1{
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(7, 53, 7);
+    font-weight: bold;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+.p{
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+    font-size: 16px;
+}
+
+.titulo-campo{
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(7, 53, 7);
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.imagem_deus{
+    width: 200px !important;
+}
+
+.imagem_messias{
+    max-width: 500px !important;
+    max-height: 600px !important;
+}
+
+.voltar{
+    background-color: rgb(7, 122, 7);
+}
+
+.voltar:hover{
+    background-color: rgb(158, 118, 37);  
+}
+
+.icone{
+    width: 37px;
+    height: 37px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.icone-instagram{
+    background-image: url("imagens/instagram1.svg");
+}
+
+.icone-instagram:hover{
+    background-image: url("imagens/instagram2.svg");
+}
+
+.icone-facebook{
+    background-image: url("imagens/facebook1.svg");
+}
+
+.icone-facebook:hover{
+    background-image: url("imagens/facebook2.svg");
+}
+
+.icone-linkedin{
+    background-image: url("imagens/linkedin1.svg");
+}
+
+.icone-linkedin:hover{
+    background-image: url("imagens/linkedin2.svg");
+}
+
+footer{
+    background-color: rgb(194, 233, 194);
+}
+
+
